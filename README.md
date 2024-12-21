@@ -194,6 +194,7 @@ window.onclick = function(event) {
 
 
 
+
 ```
 # OUTPUT:
 
@@ -213,4 +214,5 @@ window.onclick = function(event) {
 
 ![alt text](<Screenshot (101).png>)
 # RESULT:
+
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
